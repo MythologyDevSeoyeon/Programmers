@@ -1,0 +1,9 @@
+SELECT PRODUCT_ID,
+    PRODUCT_NAME,
+    PRODUCT_CD,
+    CATEGORY,
+    PRICE
+FROM FOOD_PRODUCT
+order by 5 desc
+limit 1
+
